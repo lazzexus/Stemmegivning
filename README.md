@@ -11,7 +11,7 @@ Voting platform for Young Pirates Norway.
   * Unique Invite Keys for every member
 
 ##Techology
- * Built on node.js with express and mongoDB
+ * Built on node.js with express, mongoDB and socket.io
  * Frontend based on Twitter Bootstrap 3 with fontawesome icons
 
 ##Installation Instructions
