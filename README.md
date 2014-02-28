@@ -22,3 +22,4 @@ Voting platform for Young Pirates Norway.
 ###Installation
 
 ###Configuration
+See 'config.json'
