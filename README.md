@@ -2,6 +2,7 @@ Stemmegivning
 =============
 
 Voting platform for Young Pirates Norway.
+Work in progress, this isn't even alpha.
 
 
 ##Features
