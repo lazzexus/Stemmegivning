@@ -22,4 +22,17 @@ Voting platform for Young Pirates Norway.
 ###Installation
 
 ###Configuration
-See 'config.json'
+
+####Language options
+
+####Voting options
+
+##Walkthru
+
+###Generation and distribution of invites.
+
+###Case setup
+
+###Voting
+
+###Live voting data
