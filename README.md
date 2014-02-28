@@ -9,6 +9,7 @@ Voting platform for Young Pirates Norway.
   * Mobile and Tablet support
   * JSON api
   * Unique Invite Keys for every member
+  * Option to embed livestream from meeting and remote voting for members of the party that can't attend the meeting personally.
 
 ##Techology
  * Built on node.js with express, mongoDB and socket.io
